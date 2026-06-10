@@ -1,6 +1,6 @@
 # Project-Management-Tracker
 📌 Project Overview
-The Task Management Tracker is an interactive Excel dashboard designed to give teams and managers a clear, real-time view of all ongoing, completed, and overdue tasks. It provides visual summaries by owner, team, and status — making it easy to identify bottlenecks and ensure accountability.
+- The Task Management Tracker is an interactive Excel dashboard designed to give teams and managers a clear, real-time view of all ongoing, completed, and overdue tasks. It provides visual summaries by owner, team, and status — making it easy to identify bottlenecks and ensure accountability.
 ---
 ## 📊 Dashboard Summary
 MetricCount✅
